@@ -1,0 +1,13 @@
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.exe
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.deps.json
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.runtimeconfig.json
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.runtimeconfig.dev.json
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.dll
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.pdb
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.AssemblyInfoInputs.cache
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.AssemblyInfo.cs
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.dll
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.pdb
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.genruntimeconfig.cache
+C:\Users\andy\source\repos\Lab_7_Regular_Expressions\Lab_7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab_7_Regular_Expressions.csprojAssemblyReference.cache
